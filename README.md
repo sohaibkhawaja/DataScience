@@ -1,2 +1,3 @@
-# SU - Data Science Club
+# SU - DSC 
+Data Science Club
 Syracuse University
