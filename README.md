@@ -1,2 +1,2 @@
-# Data Science
-Data Science, CAS
+# SU - Data Science Club
+Syracuse University
